@@ -1,0 +1,7 @@
+package exceptions;
+
+public class Test {
+    public void hello(){
+        System.out.println("hello");
+    }
+}
